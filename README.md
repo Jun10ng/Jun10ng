@@ -1,7 +1,7 @@
 ### Junlong
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Jun10ng&show_icons=true&icon_color=0366d6&text_color=2ea44f&bg_color=ffffff&hide_title=true" />
 
-### Hi there 👋
+#### Hi there 👋
 
 <!--
 **Jun10ng/Jun10ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
