@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Shopee, 3 yoe.
 - 🌱 I’m currently focus on Golang, Performance Optz and infra.
-- 📫 How to reach me: zeonll@outlook.com
+- 📫 How to reach me: zeonll#outlook.com
 
